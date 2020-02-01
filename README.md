@@ -18,6 +18,8 @@ System info and Polybar install info at lower part of page.
 ![RelaxingOcean004](https://i.imgur.com/3hMy5EO.jpg)
 >    Openbox + Polybar + Vim(NERDtree) + Rtile
 
+## System Info
+
 OS: `Arch Linux`
 
 WM: `Openbox`
