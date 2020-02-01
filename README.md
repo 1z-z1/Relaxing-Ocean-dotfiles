@@ -2,7 +2,7 @@
 
 # Relaxing Ocean
 
-![RelaxingOcean001] (https://i.imgur.com/q3qtfhD.jpg)
+![RelaxingOcean001](https://i.imgur.com/q3qtfhD.jpg)
 >    -Openbox + Polybar + Cmus/Vis + Konsole + Rtile
 
 ![RelaxingOcean002](https://i.imgur.com/jdr2eYs.jpg)
