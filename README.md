@@ -4,6 +4,7 @@ Designing this desktop was a great experience in pulling together the skills fro
 
 The future has more in store:)
 
+The Polybar folder is within the config directory and requires the font folder as-well.
 
 ![RelaxingOcean001](https://i.imgur.com/q3qtfhD.jpg)
 >    Openbox + Polybar + Cmus/Vis + Konsole + Rtile
