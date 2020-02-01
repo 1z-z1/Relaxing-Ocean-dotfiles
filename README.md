@@ -24,15 +24,23 @@ OS: `Arch Linux`
 
 WM: `Openbox`
 
+Openbox Theme: `Nightmare` ⁽ⁿᵒᵗ ᵖᶦᶜᵗᵘʳᵉᵈ ᵇᵘᵗ ˢᵗᶦˡˡ ᵃʷᵉˢᵒᵐᵉ⁾
+
 System Tray: `Polybar`
 
-Fonts: `Jet Brain Mono` + `Iosevka` + `Icomoon-feather`
+System Tray Glyph Font: `Icomoon-Feather`
+
+Fonts: `Jet Brain Mono` + `Iosevka` + 
+
+File Manager: `PCmanFM`
+
+Icon Theme: `KDE-Story-Dark`
 
 Terminal: `Konsole`
 
 Media Player: `Cmus`
 
-Visualizer: `Cli-visualiser`
+Visualizer: `Cli-Visualiser`
 
 Tiler: `Rtile`
 
