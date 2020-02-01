@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+count=0
+disconnected=""
+disconnected1="Nah!"
+wireless_connected=""
+# There is also "ls /sys/class/net | grep enp"
+ethernetID="$(ip link | awk -F: '$0 !~ "lo|vir|wl|^[^0-9]"{print $2;getline}') Connected"
+
+
+SSID_NAME=$(iwgetid -r)
+wifiID="$(ip link | awk '/state UP/ {print $2}')"
+
+#REMOVED $wireless_connected symbol from echo "" else statement
+while true; do
+    if (ping -c 1 archlinux.org || ping -c 1 google.com || ping -c 1 bitbucket.org || ping -c 1 github.com || ping -c 1 sourceforge.net) &>/dev/null; then
+        if [[ $wifiID == e* ]]; then
+            echo "$ethernet_connected" ; sleep 25
+        else
+            echo "" "${SSID_NAME}"; sleep 5
+        fi
+    else
+        echo "$disconnected" "$disconnected1"; sleep 0.5
+    fi
+done

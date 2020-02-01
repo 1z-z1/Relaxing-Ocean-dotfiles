@@ -1,0 +1,2 @@
+rtile --all-auto &
+bash /home/iz_zi/.config/polybar/launch.sh
