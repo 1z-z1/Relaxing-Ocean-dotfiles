@@ -33,5 +33,7 @@ Visualizer: `Cli-visualiser`
 Tiler: `Rtile`
 
 -Polybar is in the config directory and requires the `Iosevka` + `Icomoon-feather` fonts.
+
 -Put all files in `/home/$USER/.config/polybar/` and add the fonts to your system. 
- Then execute `launch.sh` to start the polybar or add this script to your WM startup file. 
+
+-Then execute `launch.sh` to start the polybar or add this script to your WM startup file. 
