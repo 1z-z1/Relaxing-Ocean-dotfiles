@@ -15,7 +15,7 @@ System info and Polybar install info at lower part of page.
 ![RelaxingOcean003](https://i.imgur.com/1lq4LuC.jpg)
 >    Openbox + Polybar + Cmus/Vis + PCmanFM + Firefox + Rtile
 
-![RelaxingOcean004](https://i.imgur.com/3hMy5EO.jpg)
+![RelaxingOcean004]()
 >    Openbox + Polybar + Vim(NERDtree) + Rtile
 
 ## System Info
