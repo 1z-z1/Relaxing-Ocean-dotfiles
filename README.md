@@ -4,6 +4,8 @@ Designing this desktop was a great experience in pulling together the skills fro
 
 The future has more in store:)
 
+System info and Polybar install info at lower part of page.
+
 ![RelaxingOcean001](https://i.imgur.com/q3qtfhD.jpg)
 >    Openbox + Polybar + Cmus/Vis + Konsole + Rtile
 
