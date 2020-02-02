@@ -38,6 +38,8 @@ Icon Theme: `KDE-Story-Dark`
 
 Terminal: `Konsole`
 
+Terminal Color Theme: `Dracula`
+
 Media Player: `Cmus`
 
 Visualizer: `Cli-Visualiser`
