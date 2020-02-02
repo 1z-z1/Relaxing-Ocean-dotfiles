@@ -13,7 +13,7 @@ System info and Polybar install info at lower part of page.
 >    Openbox + Polybar + Blank screen
 
 ![RelaxingOcean003](https://i.imgur.com/1lq4LuC.jpg)
->    Openbox + Polybar + Konsole + Tmux + Cmus/Vis + PCmanFM + Firefox + Rtile
+>    Openbox + Polybar + Konsole + Tmux + Cmus/Cli-Visualizer + PCmanFM + Firefox + Rtile
 
 ![RelaxingOcean004](https://imgur.com/8qVifmI.jpg)
 >    Openbox + Polybar + Konsole + Cmus/Cli-Visualizer + Tmux + Vim(NERDtree) + Rtile
