@@ -28,9 +28,9 @@ Openbox Theme: `Nightmare` ⁽ⁿᵒᵗ ᵖᶦᶜᵗᵘʳᵉᵈ ᵇᵘᵗ ˢᵗ�
 
 System Tray: `Polybar`
 
-System Tray Glyph Font: `Icomoon-Feather`
+System Tray Font: `Iosevka`
 
-Fonts: `Jet Brain Mono` + `Iosevka`
+System Tray Glyph Font: `Icomoon-Feather`
 
 File Manager: `PCmanFM`
 
@@ -39,6 +39,8 @@ File Manager Theme: `Juno-Palenight`
 Icon Theme: `KDE-Story-Dark`
 
 Terminal: `Konsole`
+
+Terminal Font: `Jet Brain Mono`
 
 Terminal Color Theme: `Dracula`
 
