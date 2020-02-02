@@ -30,9 +30,11 @@ System Tray: `Polybar`
 
 System Tray Glyph Font: `Icomoon-Feather`
 
-Fonts: `Jet Brain Mono` + `Iosevka` + 
+Fonts: `Jet Brain Mono` + `Iosevka`
 
 File Manager: `PCmanFM`
+
+File Manager Theme: `Juno-Palenight`
 
 Icon Theme: `KDE-Story-Dark`
 
