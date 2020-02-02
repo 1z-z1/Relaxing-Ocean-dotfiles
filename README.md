@@ -22,7 +22,7 @@ System info and Polybar install info at lower part of page.
 
 OS: `Arch Linux`
 
-WM: `Openbox`
+Window Manager: `Openbox`
 
 Openbox Theme: `Nightmare` ⁽ⁿᵒᵗ ᵖᶦᶜᵗᵘʳᵉᵈ ᵇᵘᵗ ˢᵗᶦˡˡ ᵃʷᵉˢᵒᵐᵉ⁾
 
