@@ -7,16 +7,16 @@ The future has more in store:)
 System info and Polybar install info at lower part of page.
 
 ![RelaxingOcean001](https://i.imgur.com/q3qtfhD.jpg)
->    Openbox + Polybar + Cmus/Vis + Konsole + Rtile
+>    Openbox + Polybar + Konsole + Tmux + Cmus/Cli-Visualizer + Rtile
 
 ![RelaxingOcean002](https://i.imgur.com/jdr2eYs.jpg)
 >    Openbox + Polybar + Blank screen
 
 ![RelaxingOcean003](https://i.imgur.com/1lq4LuC.jpg)
->    Openbox + Polybar + Cmus/Vis + PCmanFM + Firefox + Rtile
+>    Openbox + Polybar + Konsole + Tmux + Cmus/Vis + PCmanFM + Firefox + Rtile
 
 ![RelaxingOcean004](https://imgur.com/8qVifmI.jpg)
->    Openbox + Polybar + Vim(NERDtree) + Rtile
+>    Openbox + Polybar + Konsole + Cmus/Cli-Visualizer + Tmux + Vim(NERDtree) + Rtile
 
 ## System Info
 
@@ -39,6 +39,8 @@ File Manager Theme: `Juno-Palenight`
 Icon Theme: `KDE-Story-Dark`
 
 Terminal: `Konsole`
+
+Terminal Multi-plexer: `Tmux`
 
 Terminal Font: `Jet Brain Mono`
 
